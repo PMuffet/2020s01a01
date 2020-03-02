@@ -1,4 +1,4 @@
 
-public class Post {
+public abstract class Post {
 
 }

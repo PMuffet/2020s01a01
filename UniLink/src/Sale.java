@@ -1,4 +1,4 @@
 
-public class Sale {
+public class Sale extends Post {
 
 }
